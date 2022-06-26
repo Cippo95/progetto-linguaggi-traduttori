@@ -4,11 +4,13 @@ Carico il mio progetto di Linguaggi e Traduttori, finito il 14/07/2020.
 È un piccolo parser per un sottoinsieme del linguaggio C.  
 Leggere grammaticaParser.pdf per vederne la grammatica.  
 
-### Ulteriori commenti che spero aiutino
+### Ulteriore commento
 
-Al tempo non mi ero informato e non sapevo che si trovassero grammatiche per il C online.  
-Anche il prof. non mi aveva detto niente riguardo, non so se volesse che la facessi io da zero... come ho fatto.  
-Quindi la mia grammatica è "fatta a mano" e probabilmente pensarla è stata la parte più difficile del progetto... e non so neanche se sia decente o faccia schifo.  
-Onestamente è passato molto tempo e non ricordo bene Haskell, però ricordo che una volta fatta la grammatica, seguire una implementazione usando solo il pattern matching sia la scelta più saggia.
-Ricordo che all'inizio avevo fatto una versione iniziale di tipo 400 righe di codice che era uno spaghetti code allucinante.  
-Ripensandolo sotto un'ottica di solo pattern matching potete vedere anche voi i risultati, il codice è estremamente commentato... bravo me.
+Al tempo non sapevo che si trovassero online delle grammatiche già fatte per il C.  
+Il prof. non mi aveva detto nulla e io l'ho pensata partendo da zero.  
+Pensarla senza che ci fossero inconsistenze è stata la parte più difficile del progetto.
+
+Una volta fatta la grammatica fare una implementazione usando solo il pattern matching credo sia la scelta più saggia.
+All'inizio avevo fatto una versione solo di istruzioni condizionali, il risultato era stato 400 righe di spaghetti code mal funzionante.  
+
+Potete vedere anche voi i risultati dopo aver rivisto tutto sotto un'ottica di pattern matching, il codice è estremamente commentato.
